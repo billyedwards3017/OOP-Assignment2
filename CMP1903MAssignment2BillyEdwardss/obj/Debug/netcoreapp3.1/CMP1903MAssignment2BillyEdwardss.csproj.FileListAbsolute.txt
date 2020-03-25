@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\CMP1903MAssignment2BillyEdwardss\bin\Debug\netcoreapp3.1\CMP1903MAssignment2BillyEdwardss.exe
+C:\Users\HP\source\repos\CMP1903MAssignment2BillyEdwardss\bin\Debug\netcoreapp3.1\CMP1903MAssignment2BillyEdwardss.deps.json
+C:\Users\HP\source\repos\CMP1903MAssignment2BillyEdwardss\bin\Debug\netcoreapp3.1\CMP1903MAssignment2BillyEdwardss.runtimeconfig.json
+C:\Users\HP\source\repos\CMP1903MAssignment2BillyEdwardss\bin\Debug\netcoreapp3.1\CMP1903MAssignment2BillyEdwardss.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CMP1903MAssignment2BillyEdwardss\bin\Debug\netcoreapp3.1\CMP1903MAssignment2BillyEdwardss.dll
+C:\Users\HP\source\repos\CMP1903MAssignment2BillyEdwardss\bin\Debug\netcoreapp3.1\CMP1903MAssignment2BillyEdwardss.pdb
+C:\Users\HP\source\repos\CMP1903MAssignment2BillyEdwardss\obj\Debug\netcoreapp3.1\CMP1903MAssignment2BillyEdwardss.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CMP1903MAssignment2BillyEdwardss\obj\Debug\netcoreapp3.1\CMP1903MAssignment2BillyEdwardss.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CMP1903MAssignment2BillyEdwardss\obj\Debug\netcoreapp3.1\CMP1903MAssignment2BillyEdwardss.AssemblyInfo.cs
+C:\Users\HP\source\repos\CMP1903MAssignment2BillyEdwardss\obj\Debug\netcoreapp3.1\CMP1903MAssignment2BillyEdwardss.dll
+C:\Users\HP\source\repos\CMP1903MAssignment2BillyEdwardss\obj\Debug\netcoreapp3.1\CMP1903MAssignment2BillyEdwardss.pdb
