@@ -1,0 +1,9 @@
+Pros:
+Well commented
+Easy use and well designed for the console
+Good use of Error Handling
+Shows which line the difference is
+
+Cons:
+The code is cluttered and is hard to read
+Imports all files rather than the ones necessary for the program to function
